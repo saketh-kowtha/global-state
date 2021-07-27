@@ -1,1 +1,3 @@
-# global-state
+# React mini redux
+
+WIP...
