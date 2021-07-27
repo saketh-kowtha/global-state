@@ -1,1 +1,1 @@
-# my-redux
+# global-state
