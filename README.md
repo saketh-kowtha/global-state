@@ -1,3 +1,3 @@
-# React mini redux
+# React tiny redux
 
-WIP...
+Documentation work in progress 
